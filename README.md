@@ -4,7 +4,7 @@ This is a very simple journaling app made with [Socket Runtime](https://github.c
 
 That doesn't include the [sqlite3 extension to Socket Runtime](src/extensions/sqlite3), but that was copied from the socket repo.
 
-The entire app is in the [index.html file, like it's 20 years ago and we're writing php but like, it's good](index.html).
+The entire app is in the [index.html file, like it's 20 years ago and we're writing php but like, it's good](src/index.html).
 
 This example clearly isn't something that should be shipped to users, but I bet it wouldn't take much to get to a reasonable alpha version.
 
